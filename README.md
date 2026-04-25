@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/6929f529-4373-4a98-8ec2-dc49361a9719
 
 ---
 
-## 🛠️ Ingeniería detrás del Producto
+## Ingeniería detrás del Producto
 Para garantizar la entrega de datos incluso ante bloqueos de seguridad, el software implementa:
 * **Navegación Robusta:** Motor de **Selenium** para el renderizado completo de contenido dinámico (JavaScript).
 * **Inteligencia de Datos:** Pipeline de limpieza con **Pandas** que jerarquiza la información por relevancia y magnitud de descuento.
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/1265ea60-0df4-43c7-9509-a24db466ab39
 
 ---
 
-## ⚠️ Nota de Implementación
+## Nota de Implementación
 Este repositorio se presenta exclusivamente como una **exhibición de capacidades técnicas y arquitectura de software**. 
 
 > El código ha sido optimizado para ejecutarse en un entorno de desarrollo específico y no está adaptado para su instalación o distribución masiva mediante un archivo de requerimientos estándar. Su propósito es servir como referencia de lógica de programación, manejo de selectores dinámicos y automatización de procesos industriales.
